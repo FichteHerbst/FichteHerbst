@@ -11,3 +11,6 @@
 <br/>
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=FichteHerbst&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/>
+<p align="center">
+<p align="center">
+<a href="https://github.com/FichteHerbst"><img src="https://img.shields.io/badge/GitHub-FichteHerbst-blue?logo=github" /></a>
