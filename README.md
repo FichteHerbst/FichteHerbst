@@ -1,5 +1,5 @@
 # Hi, hello!<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+of+designer+learning+to+program!;某个正在学习编程的设计师!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+of+designer+learning+to+program!;『沿着前人未尽的道路，走出更远的距离。』)](https://git.io/typing-svg)
 ### Blog : www.kisou.cn
 ### QQ : 1801684146
 ### mail ：admin@kisou.cn
