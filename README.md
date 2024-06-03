@@ -1,8 +1,13 @@
-# Hi, hello!<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=『沿着前人未尽的道路，走出更远的距离。』)](https://git.io/typing-svg)
-## Blog : www.kisou.cn
-## QQ : 1801684146
-## mail ：admin@kisou.cn
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FichteHerbst&show_icons=true)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20HELLO&fontSize=90&fontAlign=50&fontAlignY=30&desc=FichteHerbst!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FichteHerbst&layout=compact)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Follow+the+unfinishe+path+and+go+farther!;沿着前人未尽的道路+走出更远的距离!" />
+</p>
+<p align="center">
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=FichteHerbst&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=FichteHerbst&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+<br/>
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=FichteHerbst&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+<br/>
