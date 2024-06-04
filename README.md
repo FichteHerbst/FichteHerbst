@@ -11,7 +11,11 @@
 <br/>
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=FichteHerbst&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/>
+
 <p align="center">
+<img src="https://github.com/FichteHerbst/FichteHerbst/assets/144253610/87715cee-7aac-4547-8a32-8530b96b8dbd"  width="75%"/>
+</p>
+
 <p align="center">
 <a href="https://github.com/FichteHerbst"><img src="https://img.shields.io/badge/GitHub-FichteHerbst-blue?logo=github" /></a>
 <a href="https://gitee.com/FichteHerbst"><img src="https://img.shields.io/badge/Gieet-FichteHerbst-red?logo=gitee"/></a>
