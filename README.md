@@ -18,7 +18,7 @@
 
 <p align="center">
 <a href="https://github.com/FichteHerbst"><img src="https://img.shields.io/badge/GitHub-FichteHerbst-blue?logo=github" /></a>
-<a href="https://gitee.com/FichteHerbst"><img src="https://img.shields.io/badge/Gieet-FichteHerbst-red?logo=gitee"/></a>
+<a href="https://gitee.com/FichteHerbst"><img src="https://img.shields.io/badge/Gitee-FichteHerbst-red?logo=gitee"/></a>
 <a href="https://qm.qq.com/q/7xLHKx8t3y"><img src="https://img.shields.io/badge/QQ-杉秋-grren?logo=tencentqq"/></a>
 <img src="https://komarev.com/ghpvc/?username=FichteHerbst&abbreviated=true&color=yellow" />
 </p>
