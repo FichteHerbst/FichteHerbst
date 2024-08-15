@@ -13,7 +13,7 @@
 <br/>
 
 <p align="center">
-<img src="https://github.com/FichteHerbst/FichteHerbst/assets/144253610/87715cee-7aac-4547-8a32-8530b96b8dbd"  width="85%"/>
+<img src="https://github.com/FichteHerbst/FichteHerbst/assets/144253610/87715cee-7aac-4547-8a32-8530b96b8dbd"  width="100%"/>
 </p>
 
 <p align="center">
