@@ -23,6 +23,6 @@
 <a href="https://gitee.com/FichteHerbst"><img src="https://img.shields.io/badge/Gitee-FichteHerbst-FF7C09"/></a>
 <a href="https://t.me/kisou01"><img src="https://img.shields.io/badge/Telegram-Kisou-00CC00"/></a>
 <a href="https://www.mleux.com"><img src="https://img.shields.io/badge/Halo-Blog-00CCCC"/></a>
-<a href="mailto:hi@kisou.cn"><img src="https://img.shields.io/badge/Email-Blog-9933FF"/></a> 
+<a href="mailto:hi@kisou.cn"><img src="https://img.shields.io/badge/Email-hi@kisou.cn-9933FF"/></a> 
 </p>
 
